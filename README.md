@@ -7,8 +7,7 @@ Exploramos o algoritmo de clustering K-Means aplicado a um contexto diferente do
 
 A base de dados utilizada é a penguins do pacote seaborn, que contém informações sobre três espécies de pinguins: Adelie, Chinstrap e Gentoo. As variáveis disponíveis incluem medições físicas dos pinguins coletadas na Antártica. O objetivo é usar o K-Means para identificar esses grupos de pinguins de forma não supervisionada.
 
-Dicionário de Dados
-Aqui estão as descrições das colunas presentes no dataset penguins:
+Dicionário de Dados:
 
 species: Espécie do pinguim (Adelie, Chinstrap, Gentoo)
 island: Ilha onde o pinguim foi observado (Biscoe, Dream, Torgersen)
